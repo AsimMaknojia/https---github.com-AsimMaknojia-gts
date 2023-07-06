@@ -1,0 +1,21 @@
+.Mainheader {
+    margin-bottom: -130px;
+}
+.menucol ul li {
+    padding: 0px 34px;
+}
+.menucol ul li a {
+    font-size: 18px;
+    color: #1F2447 !important;
+}
+.callbutton button {
+    padding: 4px !important;
+    background: linear-gradient(90deg, #36a9e1 0%, #327abd 100%);
+    color: #fff;
+    padding-right: 22px !important;
+    border:0 !important;
+    border-radius: 3px !important;
+}
+.callbutton button img {
+    padding-right: 15px;
+}
