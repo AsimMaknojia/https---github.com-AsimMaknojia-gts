@@ -1,0 +1,28 @@
+.Sec02{
+    padding-top: 113px;
+    padding-bottom: 81px;
+}
+.Sec02 img{
+    text-align: left;
+}
+.Sec02 h1{
+font-family: Nexa;
+font-weight: bold;
+font-size: 60px;
+letter-spacing: -0.02em;
+line-height: 90px;
+text-align: left;
+color: #1f2447;
+}
+.Sec02 p{
+font-family: Nexa;
+font-weight: normal;
+font-size: 19px;
+letter-spacing: -0.02em;
+line-height: 30px;
+text-align: left;
+color: #8b8b8b;
+}
+.Sec02 .aboutusimage img{
+    width: 100%;
+}
